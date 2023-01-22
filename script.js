@@ -32,7 +32,7 @@ $(document).on("scroll", () => {
     $(".im3").attr({fill: "#1597FE"});
     $(".im4").attr({fill: "black"});
   }
-  if(window.scrollY >= 2100){
+  if(window.scrollY >= 2050){
     $(".side").html("<div class = 'side_p'>Kontakt</div>"); 
     $(".im1").attr({fill: "black"});
     $(".im2").attr({fill: "black"});
