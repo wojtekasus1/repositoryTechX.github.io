@@ -307,11 +307,11 @@ margin-top: -100px;
         font-size: 60px;
     }
     .pg1-cont button:hover{
+        cursor: pointer;
         background-color: #FF5D03;
         border-color: #FF5D03;
         display: flex;
         margin: 0;
-        cursor: pointer;
     }
     .pg2-cont{
         display: flex;
