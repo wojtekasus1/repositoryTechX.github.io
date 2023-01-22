@@ -311,6 +311,7 @@ margin-top: -100px;
         border-color: #FF5D03;
         display: flex;
         margin: 0;
+        cursor: pointer;
     }
     .pg2-cont{
         display: flex;
