@@ -18,14 +18,14 @@ $(document).on("scroll", () => {
     $(".im3").attr({fill: "black"});
     $(".im4").attr({fill: "black"});
   }
-  if(window.scrollY >= 681 && window.scrollY <= 1417){
+  if(window.scrollY >= 681 && window.scrollY <= 1317){
     $(".side").html("<div class = 'side_p'>Info</div>");
     $(".im1").attr({fill: "black"});
     $(".im2").attr({fill: "#1597FE"});
     $(".im3").attr({fill: "black"});
     $(".im4").attr({fill: "black"});
   }
-  if(window.scrollY >= 1418 && window.scrollY <= 1600){
+  if(window.scrollY >= 1318 && window.scrollY <= 1600){
     $(".side").html("<div class = 'side_p'>Opis</div>"); 
     $(".im1").attr({fill: "black"});
     $(".im2").attr({fill: "black"});
